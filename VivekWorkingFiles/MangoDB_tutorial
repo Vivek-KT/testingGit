@@ -1,0 +1,13 @@
+MangoDB Tutorial :
+MongoDB is an open-source document database and leading NoSQL database. MongoDB is written in C++. 
+
+MongoDB is a document-oriented database. Instead of storing your data in tables made out of individual rows, like a relational database does, it stores your data in collections made out of individual documents. In MongoDB, a document is a big JSON blob with no particular format or schema
+
+Difference between RDBMS vs DBMS?
+RDBMS (relational database management system) applications store data in a tabular form, while DBMS applications store data as files
+Normalization is present in RDBMS only.
+
+
+
+
+
